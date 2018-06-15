@@ -1,2 +1,1 @@
-ÁÄÌìÈí¼ş
-¡¤
+this is chatRoom system,version one.
